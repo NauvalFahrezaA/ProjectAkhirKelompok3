@@ -1,1 +1,1 @@
-# ProjectAkhirKelompok3
+Program di atas kami beri nama “Aplikasi MiniMaps“. Program ini berfungsi untuk mencari suatu tempat terdekat dari lokasi kita sekarang atau lokasi yang kita pilih, namun program ini baru memiliki 3 fitur yaitu fitur yang dapat mencari pom bensin, musholla dan minimarket terdekat. Oleh karena itu, kami membuat program ini agar dapat memberitahu pengguna terkait tempat terdekat yang ingin mereka kunjungi atau mereka butuhkan.
